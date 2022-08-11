@@ -14,7 +14,8 @@ In this paper I develop a model that predicts negative consequences for a commun
 
 [Link to paper](https://drive.google.com/file/d/1E60NJEgX6LGKm1x6gMCycpgcsK23SeTD/view?usp=sharing)
 
-## Journalistic Writing Samples: Features for the Tufts Daily
+## Journalistic Writing Samples:
+## Features for the Tufts Daily
 
 Though most of my student journalism work has been without a byline, either as a copy editor or writing editorials, linked below are two of my contributions to the Tufts Daily's features section.
 
@@ -22,7 +23,8 @@ Though most of my student journalism work has been without a byline, either as a
 
 [Second Article: For remote first-years, a different start to college](https://tuftsdaily.com/features/2020/09/25/for-remote-first-years-a-different-start-to-college/)
 
-## Additional Writing Sample: Writing for the Tufts Public Opinion Lab blog
+## Additional Writing Sample:
+## Tufts Public Opinion Lab blog
 
 In this contribution to the Tufts Public Opinion Lab blog, I use data from the 2020 Cooperative Election Study to explore variance in the levels of civic engagement shown by different religious groups. I visualize these difference across religious groups and across varying levels of church attendance.
 
