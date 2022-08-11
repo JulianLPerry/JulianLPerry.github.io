@@ -10,7 +10,7 @@ When I'm not busy with academics, I spend my time reading, editing for the [Tuft
 
 ## Technical Writing Sample: Using instrumental variables to estimate long-term effects of highway construction
 
-In this paper I develop a model that predicts negative consequences for a community's social mobility when highways are constructed nearby. I test it on [Opportunity Insights data](https://opportunityinsights.org/data/), and as an instrumental variable I use that 1947 highway plan that [Baum-Snow (2007)](https://academic.oup.com/qje/article-abstract/122/2/775/1942140?redirectedFrom=fulltext) identifies as an exogenous source of variation in highway construction.
+In this paper I develop a model that predicts negative consequences for a community's social mobility when highways are constructed nearby. I test it on [Opportunity Insights data](https://opportunityinsights.org/data/), and as an instrumental variable I use the 1947 highway plan that [Baum-Snow (2007)](https://academic.oup.com/qje/article-abstract/122/2/775/1942140?redirectedFrom=fulltext) identifies as an exogenous source of variation in highway construction.
 
 [Link to paper](https://drive.google.com/file/d/1E60NJEgX6LGKm1x6gMCycpgcsK23SeTD/view?usp=sharing)
 
