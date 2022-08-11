@@ -7,6 +7,8 @@ My research interests lie in the application of quantitative methods to understa
 When I'm not busy with academics, I spend my time reading, editing for the [Tufts Daily](https://tuftsdaily.com), volunteering with [Bluebonnet Data](https://www.bluebonnetdata.org/), or stumbling my way through foreign languages.
 
 
+
+
 # Writing Samples
 
 ## Technical Writing Sample:
