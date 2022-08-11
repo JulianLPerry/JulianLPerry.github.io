@@ -19,9 +19,9 @@ In this paper I develop a model that predicts negative consequences for a commun
 
 Though most of my student journalism work has been without a byline, either as a copy editor or writing editorials, linked below are two of my contributions to the Tufts Daily's features section.
 
-[First Article: Music and activism converge at HONK! festival](https://tuftsdaily.com/features/2019/10/15/music-activism-converge-honk-festival/)
+[Music and activism converge at HONK! festival](https://tuftsdaily.com/features/2019/10/15/music-activism-converge-honk-festival/)
 
-[Second Article: For remote first-years, a different start to college](https://tuftsdaily.com/features/2020/09/25/for-remote-first-years-a-different-start-to-college/)
+[For remote first-years, a different start to college](https://tuftsdaily.com/features/2020/09/25/for-remote-first-years-a-different-start-to-college/)
 
 ## Additional Writing Sample:
 ## Tufts Public Opinion Lab blog
