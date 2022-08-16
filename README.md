@@ -27,5 +27,5 @@ Though most of my student journalism work has been without a byline, either as a
 
 In this contribution to the Tufts Public Opinion Lab blog, I use data from the 2020 Cooperative Election Study to explore variance in the levels of civic engagement shown by different religious groups. I visualize these difference across religious groups and across varying levels of church attendance.
 
-[Link to blog](https://tufts-pol.medium.com/the-complicated-relationship-between-church-attendance-and-political-engagement-in-america-a432907810b2)
+[Link to blog post](https://tufts-pol.medium.com/the-complicated-relationship-between-church-attendance-and-political-engagement-in-america-a432907810b2)
 
