@@ -15,7 +15,7 @@ In this paper I develop a model that predicts negative consequences for a commun
 
 [Link to paper](https://drive.google.com/file/d/1nbl7hCinF_Tbhf1httyWl9E2tpllIbPD/view?usp=sharing)
 
-### Applying a multilevel model to predict attitudes toward homosexuality
+### Applying a multilevel model to predict acceptance of homosexuality
 
 This paper was written as the final assignment for my Applied Multilevel Analysis course at the University of Tübingen. Using data from the [European Social Survey](https://www.europeansocialsurvey.org/), I model the relationship between religiosity and hostility toward homosexuality; to accomplish this I use a random slopes model that accounts for the significant variation between countries and allows me to model contextual effects. The paper includes visualizations of how European countries vary in their survey responses, as well as technical assessments of how to interpret the model's variance components and residual distribution.
 
