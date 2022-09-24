@@ -15,6 +15,12 @@ In this paper I develop a model that predicts negative consequences for a commun
 
 [Link to paper](https://drive.google.com/file/d/1nbl7hCinF_Tbhf1httyWl9E2tpllIbPD/view?usp=sharing)
 
+### Applying a multilevel model to predict attitudes toward homosexuality
+
+This paper was written as the final assessment for my Applied Multilevel Analysis course at the University of Tübingen. Using data from the European Social Survey, I model the relationship between religiosity and hostility toward homosexuality; I utilize a random slopes model that accounts for the significant variation between countries and allows me to model contextual effects. The paper includes visualizations of how European countries vary in their survey responses, as well as technical assessments of how to interpret model's variance components and residual distribution.
+
+[Link to paper](https://drive.google.com/file/d/1UXcZ9S3bUcG_RvH2rQ4usdAlaUV257Ay/view?usp=sharing)
+
 ### Features for the Tufts Daily
 
 Though most of my student journalism work has been without a byline, either as a copy editor or writing editorials, linked below are two of my contributions to the Tufts Daily's features section.
